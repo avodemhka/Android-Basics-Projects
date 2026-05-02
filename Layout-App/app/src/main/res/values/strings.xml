@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">LayoutsApp</string>
+
+    <string name="image_desc">City image</string>
+    <string name="left_button_desc">Previous city</string>
+    <string name="right_button_desc">Next city</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="plate_placeholder">Plate</string>
+    <string name="description_placeholder">Description</string>
+
+    <string name="city1_title">Istanbul</string>
+    <string name="city1_plate">34</string>
+    <string name="city1_desc">Istanbul is the largest city in Turkey and connects Europe and Asia.</string>
+
+    <string name="city2_title">Ankara</string>
+    <string name="city2_plate">06</string>
+    <string name="city2_desc">Ankara is the capital city of Turkey and the center of government.</string>
+
+    <string name="city3_title">Izmir</string>
+    <string name="city3_plate">35</string>
+    <string name="city3_desc">Izmir is a major coastal city known for its port and Aegean culture.</string>
+
+</resources>
